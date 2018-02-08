@@ -1,0 +1,2 @@
+git remote -v   | check the url of origin
+git remote set-url origin git@gihub:zaldy/test2.git
